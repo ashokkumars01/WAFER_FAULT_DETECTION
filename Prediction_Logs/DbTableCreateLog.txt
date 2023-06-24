@@ -1,0 +1,2 @@
+2023-06-24/09:53:15		Tables created successfully!!
+2023-06-24/10:06:25		Error while creating table: table Good_Raw_Data already exists 
